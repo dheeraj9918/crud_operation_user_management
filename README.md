@@ -16,6 +16,15 @@ This project implements a CRUD (Create, Read, Update, Delete) application for ma
 - **React.js**: Frontend library for building user interfaces.
 - **Node.js**: JavaScript runtime for executing server-side code.
 
+## All User 
+![Screenshot 2024-06-21 183159](https://github.com/dheeraj9918/crud_operation_user_management/assets/136745393/4683abdf-1886-4261-9d0e-854351a24ef0)
+
+## Add User
+![Screenshot 2024-06-21 183220](https://github.com/dheeraj9918/crud_operation_user_management/assets/136745393/dd338a0a-22e7-4f08-9955-aa76f45909f5)
+
+## Update user
+![Screenshot 2024-06-21 183242](https://github.com/dheeraj9918/crud_operation_user_management/assets/136745393/758c43ac-396d-41e9-b566-0aecf4bef393)
+
 ## Prerequisites
 
 - Node.js (v14 or above)
@@ -82,16 +91,5 @@ This project implements a CRUD (Create, Read, Update, Delete) application for ma
 - **DELETE /api/delete/:id**: Delete a user by ID.
 
 ## Folder Structure
+![image](https://github.com/dheeraj9918/crud_operation_user_management/assets/136745393/2aa50f3f-f971-437d-87aa-e5fc2b9593b8)
 
-mern-crud-user-management/
-├── server/ # Express backend
-│ ├── controllers/ # Controller functions for handling requests
-│ ├── models/ # Mongoose models
-│ ├── routes/ # API routes
-│ ├── .env # Environment variables
-│ ├── index.js # Entry point of the backend
-├── client/ # React frontend
-│ ├── src/ # Source files
-│ ├── public/ # Public files
-│ ├── package.json # Frontend dependencies
-├── README.md # Project documentation
